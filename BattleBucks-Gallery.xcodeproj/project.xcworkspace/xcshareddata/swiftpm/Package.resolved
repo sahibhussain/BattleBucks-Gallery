@@ -1,0 +1,60 @@
+{
+  "originHash" : "ca8cdec06738f2cdba8d13bd2313a7a06e20e46a5d949b7e72be41fe1b809156",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "hero",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HeroTransitions/Hero.git",
+      "state" : {
+        "revision" : "b307e2d48d582118e5101d04f5187c91595a1095",
+        "version" : "1.6.3"
+      }
+    },
+    {
+      "identity" : "shdesign",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sahibhussain/SHDesign",
+      "state" : {
+        "revision" : "67481ba9e814fc64159b60b70020257791025c2d",
+        "version" : "1.1.11"
+      }
+    },
+    {
+      "identity" : "shnetwork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sahibhussain/SHNetwork.git",
+      "state" : {
+        "revision" : "1ce0817a6f0df811d4af045caae9d88aa88092a7",
+        "version" : "1.4.0"
+      }
+    },
+    {
+      "identity" : "swiftsoup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scinfu/SwiftSoup.git",
+      "state" : {
+        "revision" : "3c2c7e1e72b8abd96eafbae80323c5c1e5317437",
+        "version" : "2.7.5"
+      }
+    },
+    {
+      "identity" : "tinyconstraints",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/roberthein/TinyConstraints.git",
+      "state" : {
+        "revision" : "3262e5c591d4ab6272255df2087a01bbebd138dc",
+        "version" : "4.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
